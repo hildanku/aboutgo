@@ -1,0 +1,13 @@
+Task Submission: Variable, Datatype, dan Constant di Go
+Tujuan:
+
+Menguji pemahaman Anda tentang variable, datatype, dan constant di Go.
+Melatih keterampilan Anda dalam menulis kode Go.
+
+Instruksi:
+
+Buatlah program Go yang menghitung total biaya pembelian produk.
+Program harus memiliki variable untuk menyimpan nama produk, harga per unit, dan jumlah unit yang dibeli.
+Gunakan datatype yang sesuai untuk setiap variable.
+Hitung total biaya dengan mengalikan harga per unit dengan jumlah unit yang dibeli.
+Tampilkan hasil perhitungan total biaya.
